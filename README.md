@@ -13,6 +13,9 @@ A simple code editor built with React where users can write code and experience 
 
 Check out the live demo of the CodeEditor [here](https://code-editor-magna-hire.vercel.app/).
 
+![image](https://github.com/Abdullah-FSWD/CodeEditor-MagnaHire-/assets/93380704/39fcf960-70ce-4c80-89a1-400e90885a04)
+
+
 
 
 ## Getting Started
