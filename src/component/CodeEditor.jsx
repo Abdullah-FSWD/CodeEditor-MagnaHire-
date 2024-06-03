@@ -1,5 +1,3 @@
-// src/components/CodeEditor.js
-
 import React, { useState, useEffect, useRef } from "react";
 import Prism from "prismjs";
 import "prismjs/themes/prism.css";
