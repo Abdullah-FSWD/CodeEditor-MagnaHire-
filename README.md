@@ -1,8 +1,66 @@
-# React + Vite
+# CodeEditor with Syntax Highlighting
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple code editor built with React where users can write code and experience syntax highlighting in real-time. This project uses the PrismJS library to provide syntax highlighting for both HTML and JavaScript.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Real-time syntax highlighting for HTML and JavaScript
+- Seamless coding experience
+- Built with React
+- Uses PrismJS for syntax highlighting
+
+## Demo
+
+Check out the live demo of the CodeEditor [here]([https://your-deployed-link.com](https://code-editor-magna-hire.vercel.app/)).
+
+![CodeEditor Demo](./images/demo.png)
+
+## Getting Started
+
+
+### Prerequisites
+
+Make sure you have Node.js and npm installed on your machine.
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/code-editor.git
+   cd code-editor
+2. Install the dependencies:
+   ```bash
+   npm install
+The app will be available at http://localhost:3000.
+
+### Project Structure
+    ```base
+    code-editor/
+    │
+    ├── public/
+    │   ├── index.html
+    │   └── ...
+    │
+    ├── src/
+    │   ├── components/
+    │   │   └── CodeEditor.js
+    │   ├── App.js
+    │   ├── App.css
+    │   ├── index.js
+    │   └── ...
+    │
+    ├── .gitignore
+    ├── package.json
+    ├── README.md
+    └── ...
+
+### Built With
+[React](https://react.dev/) - A JavaScript library for building user interfaces
+[PrismJS](https://prismjs.com/) - A lightweight, extensible syntax highlighter
+
+### Contact
+For any questions or suggestions, feel free to open an issue or reach out to me at [ansarimdabdullah794@gmail.com].
+
+
+
+
