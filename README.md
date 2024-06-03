@@ -29,7 +29,7 @@ Make sure you have Node.js and npm installed on your machine.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/code-editor.git
+   https://github.com/Abdullah-FSWD/CodeEditor-MagnaHire-.git
    cd code-editor
 2. Install the dependencies:
    ```bash
